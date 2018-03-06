@@ -1,0 +1,16 @@
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Main.resources
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Start.resources
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Author.resources
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Search.resources
+C:\Users\Pepochko\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Replace.resources
+C:\Users\Pepochko\Desktop\Visual-C-Text-Editor\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Pepochko\Desktop\Visual-C-Text-Editor\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Pepochko\Desktop\Visual-C-Text-Editor\FinalProject\obj\Debug\FinalProject.pdb
